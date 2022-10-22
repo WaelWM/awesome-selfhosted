@@ -10,7 +10,6 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 --------------------
 
-
 ## Table of contents
 
 - [Software](#software)
